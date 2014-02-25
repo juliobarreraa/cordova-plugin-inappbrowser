@@ -47,6 +47,7 @@
         <resource-file src="src/android/res/drawable-xxhdpi/ic_action_remove.png" target="res/drawable-xxhdpi/ic_action_remove.png" />
 
     </platform>
+<<<<<<< HEAD
     
     <!-- amazon-fireos -->
     <platform name="amazon-fireos">
